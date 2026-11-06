@@ -3,7 +3,7 @@
 **An automated Coinflip bot for Discord OWO.**
 
 <p align="center">
-  **Developed & Maintained by [ShimizuKazuki](https://github.com/KazukiShimizu099/OwoAutoCoinflip.git)**
+  **Developed & Maintained by [ShimizuKazuki](https://github.com/KazukiShimizu099)**
 </p>
 
 ---

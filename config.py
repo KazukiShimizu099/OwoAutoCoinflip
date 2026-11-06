@@ -14,7 +14,7 @@ BASE_BET = 10000
 MAX_BET = 250000
 
 # Randomized Delay Range (in seconds)
-MIN_DELAY = 14.5
+MIN_DELAY = 11.5
 MAX_DELAY = 16.5
 
 # Command Variations (Amount inke baad lag kar jayega)
